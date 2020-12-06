@@ -1,2 +1,2 @@
-# Sayisal-Fizik
+# Hesaplamalı-Fizik
 Sayısal Fizik 
